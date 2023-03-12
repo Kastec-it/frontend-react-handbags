@@ -1,0 +1,20 @@
+products-main {
+    width: 100px;
+    position: relative;
+    text-align: center;
+    margin: 16px;
+}
+
+products-main span {
+    background-color: #BC4C2A;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    font-size: 8px;
+    padding: 4px;
+}
+
+products-main p {
+    font-size: 10px;
+}
